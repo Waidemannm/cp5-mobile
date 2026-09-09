@@ -7,11 +7,14 @@
 
 ---
 
-## 👥 Integrantes do Grupo (até 03 integrantes)
+## 👥 Integrantes do Grupo
 
-1. **Nome:** [Nome do Integrante 1] - **RM:** [RM00000]
-2. **Nome:** [Nome do Integrante 2] - **RM:** [RM00000]
-3. **Nome:** [Nome do Integrante 3] - **RM:** [RM00000]
+| Nome Completo | RM |
+| :--- | :--- |
+| **Gabriel Sbrana Campos** | RM 565849 |
+| **Moisés Waidemann** | RM 563719 |
+| **Thiago Rodrigues da Mota** | RM 563765 |
+| **Richard Freitas** | RM 566127 |
 
 ---
 
