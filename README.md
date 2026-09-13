@@ -13,7 +13,7 @@
 | :--- | :--- |
 | **Gabriel Sbrana Campos** | RM 565849 |
 | **Moisés Waidemann** | RM 563719 |
-| **Thiago Rodrigues da Mota** | RM 563765 |
+| **Thiago Rodrigues da Mota** | RM 563650 |
 ---
 
 ## 📱 Descrição do Projeto
