@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "CP4-FirebaseAuth",
-    "slug": "cp4-firebase-auth",
+    "name": "CP5-FirebaseAuth",
+    "slug": "cp5-firebase-auth",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
-    "scheme": "cp4auth",
+    "scheme": "cp5auth",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",

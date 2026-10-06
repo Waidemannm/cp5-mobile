@@ -97,9 +97,9 @@ export default function LoginScreen() {
       <ScrollView contentContainerStyle={styles.scrollContainer} keyboardShouldPersistTaps="handled">
         <View style={styles.container}>
           {/* Cabecalho */}
-          <Text style={styles.badge}>FIAP • CheckPoint 4</Text>
+          <Text style={styles.badge}>FIAP • CheckPoint 5</Text>
           <Text style={styles.titulo}>Acessar Conta</Text>
-          <Text style={styles.subtitulo}>Autenticacao com Firebase Auth</Text>
+          <Text style={styles.subtitulo}>Gerenciador de Tarefas</Text>
 
           {/* Campo de E-mail */}
           <View style={styles.inputGroup}>
