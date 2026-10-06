@@ -1,5 +1,6 @@
 import { initializeApp, getApps, getApp } from "firebase/app";
 import { initializeAuth, getAuth } from "firebase/auth";
+import { getFirestore } from "firebase/firestore";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 // Helper para persistencia no React Native com Firebase modular
@@ -29,3 +30,4 @@ try {
 }
 
 export const auth = authInstance;
+export const db = getFirestore(app);
